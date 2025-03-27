@@ -1,4 +1,4 @@
-## 📋 Overview  
+### 📋 Overview  
 This is a minimal Aim assist implementation written in C, also known as sticky/magnetic aim. It uses low-level mouse hook to slow down your mouse when a target appears in your crosshair, helping you stay accurate and avoid missing shots.
 
 ### ⚙️ Usage
